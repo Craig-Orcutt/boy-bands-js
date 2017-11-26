@@ -1,0 +1,1 @@
+Added requirement for exercise. Added css styling for viewing pleasure.
